@@ -1,0 +1,434 @@
+
+.looo{
+  background-color: rgba(139, 133, 133, 0.532);
+}
+a.apple{
+
+  font-size: 15px;
+  color: black;
+  }
+  a.apple{
+    position: relative;
+      font-size: 13px;
+      margin: 11px;
+      text-decoration: none;
+      color: rgb(86, 86, 86);
+      
+      font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    
+      font-weight: 10;
+      
+  
+  }
+  .sup{
+  
+      color: rgb(86, 86, 86);
+      text-decoration: none;
+      font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+  font-size: 13px;
+  
+  }
+  .shop{
+      
+      color: rgb(0, 110, 236);
+      position: relative;
+    text-decoration: none 
+    
+    
+  }
+    a.shop::after{content: '';
+      width: 0%;
+      height: 3px;
+  background: rgba(0, 110, 236, 0.858);
+  position: absolute;
+  left: 0;
+  bottom: -5px;
+  transition: 0.6s;
+  
+  }
+  a.shop:hover::after{
+  
+  
+      width: 100%;
+      
+  }
+  a.apple{
+      color: rgba(26, 16, 16, 0.658);
+      position: relative;
+    text-decoration: none 
+  
+    
+  }
+    /* a.apple::after{content: '';
+      width: 0%;
+      height: 3px;
+  background: rgba(26, 16, 16, 0.858);
+  position: absolute;
+  left: 0;
+  bottom: -5px;
+  transition: 0.2s;
+  
+  }
+  a.apple:hover::after{
+  
+  
+      width: 100%;
+      
+  } */
+      
+  /* Container holding the image and the text */
+  .container {
+    top: -240px;
+      position: relative;
+      text-align: center;
+      color: white;
+    }
+    .pro{
+      color: rgb(255, 255, 255);
+      position: relative;
+      top: 250px;
+      left: 40px;
+      
+    font-size: 60px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    text-decoration: none;
+    
+  
+    }
+    .titanium{
+      position: relative;
+      top: 180px;
+      left: 40px;
+      font-weight: 100;
+      font-size: 25px;
+      font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+      text-transform: capitalize;
+      color: rgb(255, 255, 255);
+    
+    }
+    a.l{
+      position: relative;
+      top: 160px;
+      left: 10px;
+      font-weight: 100;
+      font-size: 30px;
+      font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+      text-transform: capitalize;
+      color: rgba(0, 216, 254, 0.705);
+      text-decoration: none;
+    }
+    a.m{
+      position: relative;
+      top: 160px;
+      left: 30px;
+      font-weight: 100;
+      font-size: 30px;
+      font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+      text-transform: capitalize;
+      color: rgba(0, 216, 254, 0.705);
+      text-decoration: none;
+
+    }
+    /* .contain {
+    left: -100px;
+      position: relative;
+      text-align: center;
+      color: white;
+    }
+   .lea{
+    background-position-x: center;
+    background-position-y: center; 
+     
+    
+    top: 400px;
+    left: 780px;
+    font-weight: 100;
+    font-size: 30px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    text-transform: capitalize;
+    color: rgba(0, 216, 254, 0.705);
+   }
+  
+   .b{
+    background-position-x: center;
+    background-position-y: center;
+    text-align: center;
+    top: 400px;
+    left: 800px;
+    font-weight: 100;
+    font-size: 30px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    text-transform: capitalize;
+    color: rgba(0, 216, 254, 0.705);
+   } */
+   
+    
+    
+  .zero{
+              
+    position: relative;
+    text-align: center;
+    color: rgb(0, 0, 0);
+  
+  }
+  .q{
+   position: relative;
+    margin: 0%;
+  font-size: 80px;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+  text-decoration: none;
+  }
+  .w{
+  margin: auto;
+  font-weight: 100;
+  font-size: 30px;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+  text-transform: capitalize;
+  color: rgba(0, 0, 0, 0.705);
+  }
+  .lear{
+      font-size: 30px;
+     
+     
+     
+      font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+      text-decoration: none;
+      color: rgba(0, 157, 255, 0.836);
+      font-weight: 90em;
+  }
+  .bu{
+      font-size: 30px;
+     
+     
+     
+      font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+      text-decoration: none;
+      color: rgba(0, 157, 255, 0.863);
+      
+  }
+  /* .contai {
+        right: 100px;
+          position: relative;
+          text-align: center;
+          color: white;
+  }
+  .le{
+    
+     
+          position: relative;
+  
+   top: -440px;
+          left: 520px;
+          font-weight: 100;
+          font-size: 20px;
+          font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+          color: rgba(0, 216, 254, 0.705);}
+        
+         .by{
+          position: relative;
+          text-align: center;
+          top: -440px;
+          left: 580px;
+          font-weight: 100;
+          font-size: 20px;
+          font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+          text-transform: capitalize;
+          color: rgba(0, 216, 254, 0.705);
+         }
+         
+  .la{
+    
+     
+          position:relative;
+          top: -440px;
+          left:1100px;
+          font-weight: 100;
+          font-size: 20px;
+          font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+          text-transform: capitalize;
+          color: rgba(0, 216, 254, 0.705);
+         }
+  .bi{
+          position: relative;
+          text-align: center;
+          top: -440px;
+         left: 1150px;
+          font-weight: 100;
+          font-size: 20px;
+          font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+          text-transform: capitalize;
+          color: rgba(0, 216, 254, 0.705);
+         }
+         
+      
+       
+
+      
+   
+ 
+            
+    
+             /*.conta {
+          position: relative;
+          text-align: center;
+          color: white;
+        } */
+        .mjj{
+          
+          text-align: center;
+          position: relative;
+          object-position: 0%;
+          margin-left:auto;
+          padding: 0% ; 
+       
+          color: rgb(56, 54, 54);
+
+        }
+        .leaa{
+          
+          
+          
+          position: relative;
+          top: 170px;
+          
+         
+          left: -310px;
+          text-decoration: none;
+          font-size: 20px;
+          font-weight: 20;
+          font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+          color: cadetblue;  
+
+        }
+        .bb{
+          
+position: relative;
+          
+          top: 170px;
+         left: -300px;
+          text-decoration: none;
+          font-size: 20px;
+          font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: cadetblue;
+        }
+
+
+
+
+
+        .mj{
+          margin-left: 100px;
+          text-align: center;
+          position: relative;
+          color: rgb(56, 54, 54);
+        }
+        .lea{
+          text-align: center;
+          position: relative;
+          top: 200px;
+          margin-left: -120px;
+          padding-left: 0%;
+          text-decoration: none;
+          font-size: 30px;
+          font-weight: 200;
+          font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+          color: cadetblue;          
+        }
+        .b{
+        
+          text-align: center;
+          position: relative;
+          top: 200px;
+          /* left: auto; */
+      
+          text-decoration: none;
+          font-size: 30px;
+          font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: cadetblue;
+        }
+        .para{
+          color: rgba(97, 97, 97, 0.852);
+          margin-left: 200px;
+          margin-right: 200px;
+          text-align: left;
+        font-size: 12px;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+       
+      }
+   
+      .o{
+       
+        color: rgba(97, 97, 97, 0.852);
+        margin-left: 160px;
+        margin-right: 200px;
+        text-align: left;
+      font-size: 10px;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+      line-height: 10px;
+      }
+      .t{
+        /* text-decoration: none; */
+        color: rgba(97, 97, 97, 0.852);
+   margin-top: -340px;
+        margin-left: 160px;
+        margin-right: 200px;
+        text-align: left;
+      font-size: 10px;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+      line-height: 10px;
+      }
+      .e{
+        color: rgba(97, 97, 97, 0.852);
+        margin-top: -280px;
+             margin-left: 350px;
+             margin-right: 200px;
+             text-align: left;
+           font-size: 10px;
+           font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+         
+           line-height: 10px;
+      }
+      .f{
+        color: rgba(97, 97, 97, 0.852);
+        margin-top: -245px;
+             margin-left: 520px;
+             margin-right: 200px;
+             text-align: left;
+           font-size: 10px;
+           font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+         
+           line-height: 10px;
+      }
+      .v{
+        color: rgba(97, 97, 97, 0.852);
+        margin-top: -340px;
+        text-align: left;
+        margin-left: 700px;
+             
+           font-size: 10px;
+           font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+         
+           line-height: 10px;
+        
+      }
+      ul a {color: rgba(105, 105, 105, 0.897);
+        
+      }
+      ul a::after{
+        content: '';
+        width: 0%;
+        height: 3px;
+    background: rgba(26, 16, 16, 0.858);
+    position: absolute;
+    left: 0;
+    bottom: -5px;
+    transition: 0.s;
+      }
+      ul a:hover::after{
+        width: 100%;
+      }
+
+
+        
